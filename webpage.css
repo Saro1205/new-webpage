@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    color: bisque;
+    background-image: url(registration\ image.jpg)
+}
+div{
+    /*background-color: black;*/
+}
+.container {
+  width: 80%;              /* Responsive width */
+  max-width: 1200px;       /* Maximum width */
+  margin: 0 auto;          /* Center horizontally */
+  padding: 20px;           /* Inner spacing */
+  background-color: burlywood; /* Light gray background */
+  border-radius: 8px;      /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+h2{
+    text-align: center;
+    color: black;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.strong{
+    color: gold;
+}
+h3{
+    color: lightblue;
+}
+h4{
+    color: black;
+}
+h5{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+     background: linear-gradient(135deg, #8a6c1f, #0066cc);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+
+}
